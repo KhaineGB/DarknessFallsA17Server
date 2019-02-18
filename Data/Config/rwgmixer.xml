@@ -803,7 +803,7 @@
 			<prefab name="settlement_trader_03" min_count="1" max_count="4"/>
 			<prefab name="settlement_trader_04" min_count="1" max_count="4"/>
 			<prefab name="settlement_trader_05" min_count="1" max_count="4"/>
-			<prefab name="DFalls_settlement_trader" max_count="1" prob="0.75"/>
+			<prefab name="DFalls_settlement_trader" min_count="1" max_count="2"/>
 			<prefab name="DFalls_DestroyedTrader_01" max_count="1" prob="0.05"/>
 			<prefab name="DFalls_DestroyedTrader_02" max_count="1" prob="0.05"/>
 			<prefab name="DFalls_DestroyedTrader_03" max_count="1" prob="0.05"/>
